@@ -4,11 +4,12 @@ For the use on https://idees.crapaud-fou.org this version is tweaked to replace:
 - question -> idée
 - poser une question -> proposer une idée
 
+Original translation is on https://github.com/mrflos/q2a-lang-fr
 
 
 ## Installation
 - Download the zip from this repository, and extract it on your computer
-- rename the extracted folder **q2a-fr-idee-master** to **fr**
+- rename the extracted folder **q2a-lang-fr-idee-master** to **fr**
 - By FTP, copy the **fr** folder into the **qa-lang** folder of your question2answer ftp folder
 - In the admin section of question2answer, you can now select this language
 

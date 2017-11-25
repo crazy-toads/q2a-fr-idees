@@ -163,7 +163,7 @@
 		'notify_users_default' => 'Cochez la case de notification par email par défaut',
 		'option_default' => 'Défaut',
 		'page_size_activity' => 'Longueur de la page toute l\'activité',
-		'page_size_ask_check_qs' => 'Nombre maximum d'\idées similaires à afficher',
+		'page_size_ask_check_qs' => 'Nombre maximum d\'idées similaires à afficher',
 		'page_size_ask_tags' => 'Nombre maximum de mots clés à afficher',
 		'page_size_home' => 'Longueur de la page Q&R',
 		'page_size_hot_qs' => 'Longueur de la page A Voir!',

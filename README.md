@@ -1,8 +1,10 @@
 # French translation for question2answer
 
-This version is tweaked to replace:
+For the use on https://idees.crapaud-fou.org this version is tweaked to replace:
 - question -> idée
 - poser une question -> proposer une idée
+
+
 
 ## Installation
 - Download the zip from this repository, and extract it on your computer

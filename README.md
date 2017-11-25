@@ -6,7 +6,7 @@ This version is tweaked to replace:
 
 ## Installation
 - Download the zip from this repository, and extract it on your computer
-- rename the extracted folder **q2a-lang-fr-master** to **fr**
+- rename the extracted folder **q2a-fr-idee-master** to **fr**
 - By FTP, copy the **fr** folder into the **qa-lang** folder of your question2answer ftp folder
 - In the admin section of question2answer, you can now select this language
 
